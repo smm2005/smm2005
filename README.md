@@ -1,4 +1,18 @@
-## Hello there 👋
+# Hello there 👋
+
+## Skills
+
+### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=python,java,javascript)](https://skillicons.dev)
+
+### Frameworks & Modules
+[![My Frameworks](https://skillicons.dev/icons?i=flask,opencv)](https://skillicons.dev)
+
+### Tools
+[![My Tools](https://skillicons.dev/icons?i=git,github,powershell)](https://skillicons.dev)
+
+### Web Development
+[![Web Development](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 <!--
 **smm2005/smm2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
