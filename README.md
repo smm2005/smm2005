@@ -1,5 +1,11 @@
 # Hello there 👋
 
+## Who am I?
+
+\- I am a computer science student at Toronto Metropolitan University pursuing an Honours BSc 👨‍🎓
+
+\- I am currently exploring the many nooks and cranies that exist within computer science (programming languages, frameworks and developer tools) 🔭
+
 ## Skills
 
 ### Programming Languages
