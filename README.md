@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,javascript)]()
 
 ### Frameworks & Modules
-[![My Frameworks](https://skillicons.dev/icons?i=flask,opencv)]()
+[![My Frameworks](https://skillicons.dev/icons?i=flask,opencv,arduino)]()
 
 ### Tools
 [![My Tools](https://skillicons.dev/icons?i=git,github,powershell)]()
