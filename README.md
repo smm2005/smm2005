@@ -9,16 +9,21 @@
 ## My Skills
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=python,java,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,javascript)]()
 
 ### Frameworks & Modules
-[![My Frameworks](https://skillicons.dev/icons?i=flask,opencv)](https://skillicons.dev)
+[![My Frameworks](https://skillicons.dev/icons?i=flask,opencv)]()
 
 ### Tools
-[![My Tools](https://skillicons.dev/icons?i=git,github,powershell)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=git,github,powershell)]()
 
 ### Web Development
-[![Web Development](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![Web Development](https://skillicons.dev/icons?i=html,css)]()
+
+## My Socials
+
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/its.s.m.m/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/suhail-moeen-aa0753212)
 
 <!--
 **smm2005/smm2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
