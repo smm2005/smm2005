@@ -23,7 +23,7 @@
 ## My Socials
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/its.s.m.m/)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/suhail-moeen-aa0753212)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/suhail-moeen-aa0753212/)
 
 <!--
 **smm2005/smm2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
