@@ -6,7 +6,7 @@
 
 \- I am currently exploring the many nooks and cranies that exist within computer science (programming languages, frameworks and developer tools) 🔭
 
-## Skills
+## My Skills
 
 ### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=python,java,javascript)](https://skillicons.dev)
