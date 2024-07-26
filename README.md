@@ -6,7 +6,7 @@
 
 \- I am currently exploring the many nooks and cranies that exist within computer science (programming languages, frameworks and developer tools) 🔭
 
-\- Interests of mine involve web development, data science and data structures
+\- Interests of mine involve web development, data science and data structures 🌐💾🔗
 
 ## Github Stats
 
