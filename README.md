@@ -10,7 +10,7 @@
 
 ## Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smm2005&layout=donut&theme=github_dark)]()
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smm2005&layout=donut&theme=github_dark)
 ![My Stats](https://github-readme-stats.vercel.app/api?username=smm2005&show_icons=true&theme=github_dark)
 
 
