@@ -6,6 +6,14 @@
 
 \- I am currently exploring the many nooks and cranies that exist within computer science (programming languages, frameworks and developer tools) 🔭
 
+\- Interests of mine involve web development, data science and data structures
+
+## Github Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smm2005&layout=donut&theme=github_dark)]()
+![My Stats](https://github-readme-stats.vercel.app/api?username=smm2005&show_icons=true&theme=github_dark)
+
+
 ## My Skills
 
 ### Programming Languages
