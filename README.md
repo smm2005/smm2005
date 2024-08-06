@@ -3,7 +3,7 @@
 ## Who am I?
 
 
-&mbsp;&mbsp;&mbsp;&mbsp;[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&size=26&duration=5002&pause=54&color=F7EEE8&center=true&width=435&lines=STUDENT;DEVELOPER;EXPLORER;SUHAIL+MOEEN)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&size=26&duration=5002&pause=54&color=F7EEE8&center=true&width=435&lines=STUDENT;DEVELOPER;EXPLORER;SUHAIL+MOEEN)](https://git.io/typing-svg)
 
 
 \- I am a computer science student at Toronto Metropolitan University pursuing an Honours BSc 👨‍🎓
