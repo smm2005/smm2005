@@ -17,7 +17,7 @@
 ## My Skills
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=python,java,javascript)]() 
+[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,c,cpp,php)]() 
 
 ### Frameworks, Modules & Libraries
 [![My Frameworks](https://skillicons.dev/icons?i=flask,opencv,arduino,jquery,react)]()
