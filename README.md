@@ -23,7 +23,7 @@
 [![My Frameworks](https://skillicons.dev/icons?i=flask,opencv,arduino,jquery,react)]()
 
 ### Tools
-[![My Tools](https://skillicons.dev/icons?i=git,github,powershell,vscode)]() 
+[![My Tools](https://skillicons.dev/icons?i=git,github,powershell,vscode,linux)]() 
 
 ### Web Development
 [![Web Development](https://skillicons.dev/icons?i=html,css)]()
