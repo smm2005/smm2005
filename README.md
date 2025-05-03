@@ -20,13 +20,13 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,javascript,c,cpp,php)]() 
 
 ### Frameworks, Modules & Libraries
-[![My Frameworks](https://skillicons.dev/icons?i=flask,opencv,arduino,jquery,react)]()
+[![My Frameworks](https://skillicons.dev/icons?i=flask,opencv,arduino,jquery)]()
 
 ### Tools
-[![My Tools](https://skillicons.dev/icons?i=git,github,powershell,vscode,linux)]() 
+[![My Tools](https://skillicons.dev/icons?i=git,github,powershell,vscode,linux,bash,mysql)]() 
 
 ### Web Development
-[![Web Development](https://skillicons.dev/icons?i=html,css)]()
+[![Web Development](https://skillicons.dev/icons?i=html,css,react,flask,nodejs,express)]()
 
 
 ## My Socials
