@@ -4,9 +4,9 @@
 
 \- I am a computer science student at Toronto Metropolitan University pursuing an Honours BSc 👨‍🎓
 
-\- I am currently exploring the many nooks and cranies that exist within computer science (programming languages, frameworks and developer tools) 🔭
+\- I am currently exploring the many fields that computer science has to offer 🔭, however...
 
-\- Interests of mine involve web development, data science, computer vision and computer architecture 🌐💾👁️🔗 however I am open to trying new things!
+\- My major interests (at the moment) are fullstack web development, data science and computer architecture 🌐💾👁🔗 however I am open to trying new things!
 
 ## Github Stats
 
