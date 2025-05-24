@@ -20,7 +20,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,javascript,c,cpp,php)]() 
 
 ### Frameworks, Modules & Libraries
-[![My Frameworks](https://skillicons.dev/icons?i=opencv,arduino,jquery)]()
+[![My Frameworks](https://skillicons.dev/icons?i=opencv,arduino,jquery,bootstrap)]()
 
 ### Tools
 [![My Tools](https://skillicons.dev/icons?i=git,github,powershell,vscode,linux,bash,netlify)]() 
