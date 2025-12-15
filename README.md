@@ -16,16 +16,16 @@
 ## My Skills
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,c,cpp,php)]() 
+[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,c,cpp,php,postgres)]() 
 
 ### Frameworks, Modules & Libraries
 [![My Frameworks](https://skillicons.dev/icons?i=opencv,arduino,jquery,bootstrap)]()
 
 ### Tools
-[![My Tools](https://skillicons.dev/icons?i=git,github,powershell,vscode,linux,bash,netlify)]() 
+[![My Tools](https://skillicons.dev/icons?i=git,github,powershell,linux,bash)]() 
 
 ### Web Development
-[![Web Development](https://skillicons.dev/icons?i=html,css,react,flask,nodejs,express)]()
+[![Web Development](https://skillicons.dev/icons?i=html,css,react,flask,nodejs,spring)]()
 
 
 ## My Socials
