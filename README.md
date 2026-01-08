@@ -8,15 +8,10 @@
 
 \- My major interests at the moment are fullstack web development (mostly backend), machine learning and artificial intelligence 🌐💾👁 however I am open to trying new things!
 
-## Github Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smm2005&layout=donut&theme=github_dark)
-
-
 ## My Skills
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,c,cpp,postgres)]() 
+[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,c,cpp,postgres,rust)]() 
 
 ### Frameworks, Modules & Libraries
 [![My Frameworks](https://skillicons.dev/icons?i=opencv,arduino,jquery,bootstrap)]()
