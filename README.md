@@ -1,5 +1,7 @@
 # Hello there 👋
 
+![smm2005's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smm2005&theme=prussian&show_icons=true&hide_border=false&layout=compact)
+
 ## Who am I?
 
 \- I am a computer science student at Toronto Metropolitan University pursuing an Honours BSc 👨‍🎓
@@ -7,6 +9,7 @@
 \- I am currently exploring the many fields that computer science has to offer 🔭, however...
 
 \- My major interests at the moment are fullstack web development (mostly backend), machine learning and artificial intelligence 🌐💾👁 however I am open to trying new things!
+
 
 ## My Skills
 
