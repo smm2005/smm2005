@@ -1,6 +1,5 @@
 # Hello there 👋
 
-![smm2005's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smm2005&theme=prussian&show_icons=true&hide_border=false&layout=compact)
 
 ## Who am I?
 
