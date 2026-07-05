@@ -27,7 +27,6 @@
 
 ## My Socials
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/its.s.m.m/)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/suhail-moeen-aa0753212/)
 
 <!--
