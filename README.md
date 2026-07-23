@@ -7,7 +7,7 @@
 
 \- I am currently exploring the many fields that computer science has to offer 🔭, however...
 
-\- My major interests at the moment are fullstack web development (mostly backend), machine learning and artificial intelligence 🌐💾👁 however I am open to trying new things!
+\- My major interests at the moment are in data science, machine learning, and fullstack web development 🌐💾👁 however I am open to trying new things!
 
 
 ## My Skills
